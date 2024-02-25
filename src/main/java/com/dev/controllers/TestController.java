@@ -8,6 +8,7 @@ public class TestController {
     @GetMapping("/welcome")
     public String welcome()
     {
+        System.out.println("hello world!");
         return "Welcome to Git Action CI CD";
     }
 }
