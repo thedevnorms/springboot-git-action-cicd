@@ -49,6 +49,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>springboot-cicd</finalName>
 	</build>
 
 </project>
