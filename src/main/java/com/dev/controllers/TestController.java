@@ -9,6 +9,6 @@ public class TestController {
     public String welcome()
     {
         System.out.println("hello world! Alhamdulillah");
-        return "Welcome to Git Action CI CD";
+        return "Welcome to Git Action CI CD! Its Done";
     }
 }
